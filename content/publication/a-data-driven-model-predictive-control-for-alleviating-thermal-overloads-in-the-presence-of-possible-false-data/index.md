@@ -8,8 +8,9 @@ authors:
   - Sagnik Basumallik
   - Sara Eftekharnejad
   - and Fanxin Kong
-doi: 15 January, 2021
-publication: IEEE
+doi: 10.1109/TIA.2021.3052148
+publication: IEEE Transactions on Industry Applications (TIA), 2021
+publication_short: IEEE
 abstract: Effective mitigation of thermal overloads is crucial in preventing
   power grid outages. With large-scale adoption of phasor measurement units, new
   and more effective mitigation opportunities have emerged. However, the
@@ -28,8 +29,8 @@ abstract: Effective mitigation of thermal overloads is crucial in preventing
   trustworthy data if an attack is detected. Case studies demonstrate that the
   developed model predictive control methodology effectively identifies the
   optimal mitigations in a finite prediction horizon.
-draft: true
-featured: true
+draft: false
+featured: false
 tags: []
 image:
   filename: featured
