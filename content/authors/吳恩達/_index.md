@@ -5,7 +5,7 @@ organizations:
 superuser: false
 authors:
   - 吳恩達
-title: 吳恩達
+title: 吳恩達!!
 role: Professor of Artificial Intelligence in Stanford University!!!!!!!!!!!!
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
