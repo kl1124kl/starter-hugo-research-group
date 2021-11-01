@@ -12,7 +12,9 @@ authors:
   - Shlomi Arnon
   - and Guihai Chen
 doi: 10.1109/COMST.2018.2844322
-publication: IEEE Communications Surveys and Tutorial (COMST), 2018
+publication: " IEEE Communications Surveys & Tutorials ( Volume: 20, Issue: 3,
+  thirdquarter 2018)"
+publication_short: IEEE
 abstract: "Millimeter-wave (mmWave) communication has raised increasing
   attention from both academia and industry due to its exceptional advantages.
   Compared with existing wireless communication techniques, such as WiFi and 4G,
@@ -46,6 +48,14 @@ abstract: "Millimeter-wave (mmWave) communication has raised increasing
   several promising future research directions."
 draft: false
 featured: false
+tags:
+  - Wireless communication
+  - Wireless fidelity
+  - Antenna arrays
+  - Protocols
+  - Attenuation
+  - Physical layer
+  - Long Term Evolution
 image:
   filename: featured
   focal_point: Smart
