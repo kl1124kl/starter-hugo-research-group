@@ -11,7 +11,8 @@ authors:
   - Qiao Xiang
   - and Huiqun Yu
 doi: 10.1109/TCC.2017.2739160
-publication: IEEE Transactions on Cloud Computing (TCC), 2017
+publication: "IEEE Transactions on Cloud Computing ( Volume: 8, Issue: 1,
+  Jan.-March 1 2020)"
 publication_short: IEEE
 abstract: With the fast proliferation of cloud computing, major cloud service
   providers, e.g., Amazon, Google, Facebook, etc., have been deploying more and
