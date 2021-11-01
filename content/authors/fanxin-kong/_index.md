@@ -13,5 +13,10 @@ social:
     link: https://sites.google.com/site/fanxink/home
     icon_pack: fas
     icon: envelope
+organizations:
+  - name: Syracuse University
 superuser: false
+user_groups:
+  - Researchers
+  - Visitors
 ---
