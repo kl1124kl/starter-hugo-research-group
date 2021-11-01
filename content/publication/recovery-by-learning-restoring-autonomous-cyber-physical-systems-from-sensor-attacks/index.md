@@ -36,6 +36,14 @@ abstract: "Autonomous cyber-physical systems (CPS) are susceptible to
   attacks."
 draft: false
 featured: false
+tags:
+  - Checkpointing
+  - Deep learning
+  - Protocols
+  - System dynamics
+  - Redundancy
+  - Cyber-physical systems
+  - Predictive models
 image:
   filename: featured
   focal_point: Smart
