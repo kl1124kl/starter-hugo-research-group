@@ -31,6 +31,11 @@ draft: false
 featured: false
 tags:
   - Stream media
+  - Algorithm design and analysis
+  - Bandwidth
+  - Distributed databases
+  - Channel allocation
+  - Prediction algorithms
 image:
   filename: featured
   focal_point: Smart
