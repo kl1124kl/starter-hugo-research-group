@@ -36,6 +36,14 @@ abstract: With the fast proliferation of cloud computing, major cloud service
   methods.
 draft: false
 featured: false
+tags:
+  - Data transfer
+  - Cloud computing
+  - Bandwidth
+  - Data centers
+  - Optimization
+  - Quality of service
+  - Network reliability
 image:
   filename: featured
   focal_point: Smart
