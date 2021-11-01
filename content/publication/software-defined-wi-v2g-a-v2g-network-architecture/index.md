@@ -11,7 +11,8 @@ authors:
   - Dong Li
   - and Ming Wan
 doi: 10.1109/MITS.2018.2806638
-publication: IEEE Intelligent Transportation Systems Magazine (ITSM), 2018
+publication: " IEEE Intelligent Transportation Systems Magazine ( Volume: 10,
+  Issue: 2, Summer 2018)"
 publication_short: IEEE
 abstract: "The valley-to-peak difference in power consumption is a crucial
   problem in load regulation and control for a power grid. By allowing electric
@@ -35,6 +36,17 @@ abstract: "The valley-to-peak difference in power consumption is a crucial
   in the order of milliseconds and that the reliability is higher than 99.9%. "
 draft: false
 featured: false
+tags:
+  - Vehicle-to-grid
+  - Charging stations
+  - Network architecture
+  - Bandwidth
+  - Switches
+  - Road traffic
+  - Analytical models
+  - Time series analysis
+  - Predictive methods
+  - Traffic control
 image:
   filename: featured
   focal_point: Smart
