@@ -1,9 +1,14 @@
---
-image:
-  placement: 1
-  focal_point: "Center"
-  preview_only: true
-  alt_text: "An optional description of the image for screen readers."
---
+---
+title: Testbed
 
-here is the testbed
+# View.
+#   1 = List
+#   2 = Compact
+#   3 = Card
+view: 1
+
+# Optional header image (relative to `static/media/` folder).
+header:
+  caption: ""
+  image: ""
+---
