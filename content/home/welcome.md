@@ -4,7 +4,7 @@ widget_id: Cyber-Physical Systems Laboratory
 headless: true
 weight: 10
 title: Welcome to CPSLAB
-hero_media: welcome.jpg
+hero_media: embeddedimage.jpg
 design:
   columns: "1"
   css_style: null
